@@ -1,0 +1,10 @@
+C:\Users\yana\AppData\Local\Temporary Projects\VanillaMain4\bin\Release\VanillaMain4.exe
+C:\Users\yana\AppData\Local\Temporary Projects\VanillaMain4\bin\Release\VanillaMain4.pdb
+C:\Users\yana\AppData\Local\Temporary Projects\VanillaMain4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\yana\AppData\Local\Temporary Projects\VanillaMain4\obj\x86\Release\VanillaMain4.exe
+C:\Users\yana\AppData\Local\Temporary Projects\VanillaMain4\obj\x86\Release\VanillaMain4.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain4\VanillaMain4\obj\x86\Release\VanillaMain4.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain4\VanillaMain4\obj\x86\Release\VanillaMain4.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain4\VanillaMain4\bin\Release\VanillaMain4.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain4\VanillaMain4\bin\Release\VanillaMain4.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain4\VanillaMain4\obj\x86\Release\ResolveAssemblyReference.cache
